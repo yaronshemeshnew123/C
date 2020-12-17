@@ -1,0 +1,26 @@
+
+
+
+מימוש TFTP:
+
+
+http://www.indigoo.com/dox/itdp/07_FTP-TFTP/TFTP.pdf
+
+
+
+https://www.geeksforgeeks.org/udp-server-client-implementation-c/
+
+
+UDP Server-Client implementation in C
+
+
+https://www.geeksforgeeks.org/c-program-for-file-transfer-using-udp/
+
+
+
+
+
+
+
+
+
